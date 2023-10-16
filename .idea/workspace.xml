@@ -9,20 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7740e587-1b5c-4af0-8d79-e4f8cc0cfd3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/TeleCurso_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TeleCurso.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculadora/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculadora/Calculos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculadora/Tela.java" afterDir="false" />
-    </list>
+    <list default="true" id="7740e587-1b5c-4af0-8d79-e4f8cc0cfd3c" name="Changes" comment="Calculadora em java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,17 +67,19 @@
       <option name="presentableId" value="Default" />
       <updated>1696019077898</updated>
     </task>
+    <task id="LOCAL-00001" summary="Calculadora em java">
+      <option name="closed" value="true" />
+      <created>1697463911321</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697463911321</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/calculadora/Calculadora.java</url>
-          <line>73</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Calculadora em java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculadora em java" />
   </component>
 </project>
