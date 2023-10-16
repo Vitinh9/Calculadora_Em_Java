@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TeleCurso:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TeleCurso_jar</output-path>
+    <root id="archive" name="TeleCurso.jar">
+      <element id="module-output" name="TeleCurso" />
+    </root>
+  </artifact>
+</component>
